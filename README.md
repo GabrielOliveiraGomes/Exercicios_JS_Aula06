@@ -1,3 +1,3 @@
 # Exercicios_JS_Aula06
 
-Para essa Branch temos o formulário de validação com JS
+Foi criado duas branchs para cada exercicio, exercicio-contador e exercicio-validacao
