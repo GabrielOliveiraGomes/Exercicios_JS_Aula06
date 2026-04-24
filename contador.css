@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+
+#incrementar {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#decrementar {
+    background-color: #f44336;
+    color: white;
+}
+
+#zerar {
+    background-color: #555;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.8;
+}
